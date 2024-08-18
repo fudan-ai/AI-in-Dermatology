@@ -1,3 +1,19 @@
+# *Comprehensive Dataset* Compilation for AI-Driven Dermatology: Advancements and Challenges in Skin Cancer Detection
+
+`- AIMI LAB`
+
+<img alt="AIMI LAB" src="src/aimi.PNG" width="60" height="60" />
+
+
+The rapid advancements in artificial intelligence (AI) have significantly influenced modern healthcare, particularly in dermatology for skin cancer detection. In 2024, with 208,910 new cases of skin cancer, including melanoma, reported in the United States <sup>[1](#r1)</sup> , the importance of early detection for better patient outcomes has become even more evident. AI models have revolutionized skin cancer diagnosis by greatly improving the accuracy and efficiency of early malignancy detection. However, there are still challenges in the practical application of these AI models, especially concerning data diversity, model interpretability, and clinical integration. This work is dedicated to compiling a comprehensive dataset that captures these developments. We extend our gratitude to the community for maintaining such a valuable dataset resource. Thank you.
+
+If you found this useful, please cite : https://github.com/fudan-ai/AI-in-Dermatology
+
+## Datasets
+
+Please feel free to let us know if you want to include your work here
+
+
 | Dataset Sources                    | Publication Year | Observation Method            | Original Country           | Number of Images | Image Format    | Number of Skin Lesion | Number of Patients | Special Feature                                    |
 |------------------------------------|------------------|--------------------------------|----------------------------|------------------|-----------------|-----------------------|--------------------|----------------------------------------------------|
 | ISIC 2022 Hospital Italiano de Buenos Aires | 2023             | Dermoscopic                   | Argentina                  | 1,616            | DCIOM/JPEG      | 9                     | 623                | Diversity of data sets and sources                |
@@ -11,3 +27,8 @@
 | MED-NODE                           | 2015             | Smartphones                   | Netherlands                | 170              | JPEG            | 2                     | Not specified      | Suitable for conventional detection models        |
 | SKINL2                             | 2019             | Light field imaging technology | Portugal                   | 814              | PNG             | 8                     | Not specified      | Light field image, multi-dimensional information  |
 | Dermofit-Image                     | 2024             | Snapshot                      | Not specified              | 1,300            | JPEG            | 10                    | Not specified      | Perfectly labeled by experts                      |
+
+
+## References
+
+1.  <a name="r1"></a>Rebecca L. Siegel; Giaquinto, A.N.; Jemal, A. Cancer Statistics, 2024. CA. Cancer J. Clin. 2024, 74, 12–49, doi:10.3322/caac.21820.
